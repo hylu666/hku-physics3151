@@ -1,0 +1,9 @@
+name: ai-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - scipy
+  - scikit-learn
