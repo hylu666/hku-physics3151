@@ -8,3 +8,4 @@ dependencies:
   - scipy
   - scikit-learn
   - statsmodels
+  - jupyter_latex_envs
