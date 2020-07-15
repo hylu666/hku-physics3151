@@ -11,11 +11,9 @@ dependencies:
   - jupyter_latex_envs
   - texlive-core
   - latexcodec
-  - random
   - mpld3
   - torchvision
   - pytorch-cpu
   - keras
   - seaborn 
-  - copy
-  - scvkit
+  - csvkit
