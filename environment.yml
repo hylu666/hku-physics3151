@@ -17,3 +17,5 @@ dependencies:
   - keras
   - seaborn 
   - csvkit
+  - tensorflow
+  - keras
